@@ -22,25 +22,25 @@ A **React dashboard** provides real-time visualization of server health and rout
 
 ## 🔧 Tech Stack
 
-### **Backend (Load Balancer Engine)**
+### **Backend (Load Balancer Engine)**  
 - Node.js  
 - Express  
 
-### **AI Engine**
+### **AI Engine**  
 - Python  
 - scikit-learn / TensorFlow  
 - FastAPI / Flask  
 
-### **Frontend Dashboard**
+### **Frontend Dashboard**  
 - React  
 - Tailwind CSS  
 - Recharts / Chart.js  
 
-### **Monitoring**
+### **Monitoring**  
 - Prometheus  
 - Node Exporter  
 
-### **Deployment**
+### **Deployment**  
 - Docker  
 - Docker Compose  
 - AWS EC2 (Future enhancement)
@@ -58,11 +58,11 @@ This project aims to build a production-style intelligent load balancer demonstr
 - Full-stack development  
 - Docker + Cloud deployment skills  
 
-
 ---
-
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
+
+---
 
