@@ -1,7 +1,7 @@
 # 🚀 Intelligent Load Balancer (AI-Powered)
 
 An AI-driven intelligent load balancer that distributes traffic across multiple servers using **real-time metrics** (CPU, RAM, latency, active connections) and **machine learning predictions**.  
-This project blends **Networking + Full Stack + DevOps + AI**, making it a strong **FAANG-level portfolio project**.
+This project blends **Networking + Full Stack + DevOps + AI**.
 
 ---
 
@@ -22,25 +22,25 @@ A **React dashboard** provides real-time visualization of server health and rout
 
 ## 🔧 Tech Stack
 
-### **Backend (Load Balancer Engine)**  
+### **Backend (Load Balancer Engine)**
 - Node.js  
 - Express  
 
-### **AI Engine**  
+### **AI Engine**
 - Python  
 - scikit-learn / TensorFlow  
 - FastAPI / Flask  
 
-### **Frontend Dashboard**  
+### **Frontend Dashboard**
 - React  
 - Tailwind CSS  
 - Recharts / Chart.js  
 
-### **Monitoring**  
+### **Monitoring**
 - Prometheus  
 - Node Exporter  
 
-### **Deployment**  
+### **Deployment**
 - Docker  
 - Docker Compose  
 - AWS EC2 (Future enhancement)
@@ -65,4 +65,3 @@ This project aims to build a production-style intelligent load balancer demonstr
 This project is licensed under the **MIT License**.
 
 ---
-
